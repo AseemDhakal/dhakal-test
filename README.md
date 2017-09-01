@@ -1,2 +1,5 @@
-# dhakal-test
-INST377 test
+# Aseem Dhakal
+
+This is my repo. Welcome to my repo.
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ZYXWVUTSRQPONMLKJIHGFEDCBA
